@@ -1,0 +1,32 @@
+{
+  "pinion": {
+    "teeth": 20,
+    "module_mm": 3.0,
+    "pressure_angle_deg": 20.0,
+    "pitch_d_mm": 60.0,
+    "base_d_mm": 56.382,
+    "outside_d_mm": 66.0,
+    "root_d_mm": 52.5,
+    "face_width_mm": 20.0,
+    "bore_d_mm": 20,
+    "volume_mm3": 48417.2,
+    "mass_kg_steel": 0.38
+  },
+  "gear": {
+    "teeth": 40,
+    "module_mm": 3.0,
+    "pressure_angle_deg": 20.0,
+    "pitch_d_mm": 120.0,
+    "base_d_mm": 112.763,
+    "outside_d_mm": 126.0,
+    "root_d_mm": 112.5,
+    "face_width_mm": 20.0,
+    "bore_d_mm": 25,
+    "volume_mm3": 213770.7,
+    "mass_kg_steel": 1.678
+  },
+  "ratio": 2.0,
+  "center_distance_mm": 90.0,
+  "contact_ratio": 1.635,
+  "backlash_mm": 0.1
+}
